@@ -1,2 +1,2 @@
-# energy-adaptive-sampling
-Energy-aware adaptive sampling
+# energy-aware coverage
+Energy-aware coverage
