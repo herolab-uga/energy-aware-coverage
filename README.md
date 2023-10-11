@@ -28,8 +28,9 @@ You can set following paramters in [script](EnergyAwareRobotarium.m):
 
 ## Core contributors
 
-* **Aiman Munir** - PhD Candidate
-* **Dr. Ramviyas Parasuraman** - Principal Investigator
+* **Aiman Munir** - PhD Candidate, University of Georgia
+* **Dr. Ramviyas Parasuraman** - Assistant Professor, University of Georgia
+* **Dr. Ayan Dutta** - Associate Professor, University of North Florida
 
 ## Heterogeneous Robotics (HeRoLab)
 
