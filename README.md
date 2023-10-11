@@ -4,6 +4,12 @@ Energy-aware coverage
 ## Overview
 EAC takes into account both robots's energy consumption rate and available energy level. It dynamically adjusts the allocation of regions, assigning smaller areas to robots with lower energy levels or faster depletion rates, and vice versa. EAC seeks to extend the overall lifespan of the multi-robot system while optimizing the achievement of mission objectives.
 
+
+# Video Demonstration of the Experiments
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NfVj7JEAVz0/0.jpg)](https://www.youtube.com/watch?v=NfVj7JEAVz0)
+
+
 ## Installation Requirement
 Matlab 
 *([Fast Bounded Power Diagram](https://www.mathworks.com/matlabcentral/fileexchange/56633-fast-bounded-power-diagram) MATLAB Add-on is also required, but it's built into this repository under third-party utilities (tp-utility) folder; you don't need to install)
