@@ -1,13 +1,15 @@
-# EAC
-Energy-aware coverage
+# Energy-Aware Coverage Planning for Heterogeneous Multi-Robot System
+Energy-aware coverage controller
 
 ## Overview
 EAC takes into account both robots's energy consumption rate and available energy level. It dynamically adjusts the allocation of regions, assigning smaller areas to robots with lower energy levels or faster depletion rates, and vice versa. EAC seeks to extend the overall lifespan of the multi-robot system while optimizing the achievement of mission objectives.
 
+# Paper Appendix
+See the Appendix_Munir_Energy_aware_coverage.pdf in this repository
 
 # Video Demonstration of the Experiments
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NfVj7JEAVz0/0.jpg)](https://www.youtube.com/watch?v=NfVj7JEAVz0)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/HR9HCWUJz18/0.jpg)](https://www.youtube.com/watch?v=HR9HCWUJz18)
 
 
 ## Installation Requirement
@@ -19,7 +21,7 @@ Matlab
 Place the repository within the "example" directory of Matlab Robotarium and execute the main script labeled as "EnergyAwareRobotarium.m."
 
 ## Parameters
-You can set following paramters in [script](EnergyAwareRobotarium.m):
+You can set the following paramters in [script](EnergyAwareRobotarium.m):
 1. robots initial positions
 2. density source locations (u1,u2)
 3. threshold distance to centroid
