@@ -4,8 +4,13 @@ Energy-aware coverage controller
 ## Overview
 EAC takes into account both robots's energy consumption rate and available energy level. It dynamically adjusts the allocation of regions, assigning smaller areas to robots with lower energy levels or faster depletion rates, and vice versa. EAC seeks to extend the overall lifespan of the multi-robot system while optimizing the achievement of mission objectives.
 
-# Paper Appendix
-See the Appendix_Munir_Energy_aware_coverage.pdf in this repository
+# Paper Citation
+Here's the preprint of the paper: https://arxiv.org/abs/2411.02230 
+
+Please cite it as: Munir, A., Dutta, A., & Parasuraman, R. (2024). Energy-Aware Coverage Planning for Heterogeneous Multi-Robot System. arXiv preprint arXiv:2411.02230.
+
+This work is accepted and presented at The International Symposium on Distributed Autonomous Robotic Systems (DARS) 2024, held in NY in Oct 2024.
+
 
 # Video Demonstration of the Experiments
 
